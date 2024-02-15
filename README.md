@@ -29,10 +29,10 @@ After installing the project, follow these instructions to use it:
 
 Screenshots:
 
-![Login Screen](screenshots/login.jpg)
+![Login Screen](screenshots/login.png)
 *Login Screen*
 
-![Main Menu](screenshots/main_menu.jpg)
+![Main Menu](screenshots/main_menu.png)
 *Main Menu*
 
 ## Credits
