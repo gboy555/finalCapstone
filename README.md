@@ -37,9 +37,5 @@ Screenshots:
 
 ## Credits
 
-This project was created by [Your Name]. If you have any questions or feedback, feel free to contact me at [your@email.com].
+This project was created by Chi Chan using blueprint provided by HyperionDev. If you have any questions or feedback, feel free to contact me at [gboy555@gmail.com].
 
-## Codes of the Project
-
-```python
-# Paste your project codes here
