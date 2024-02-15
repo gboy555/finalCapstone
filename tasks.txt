@@ -1,0 +1,13 @@
+benny;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;Yes
+peter;Cook a dinner;cook a dinner for family;2024-01-20;2023-01-21;Yes
+peter;create a new user;new user name is David;2023-03-13;2023-01-21;No
+peter;update password;change password policy;2024-02-21;2023-01-22;Yes
+benny;Finishing the homework;Finish task 111232 ;2024-01-23;2024-01-22;No
+benny;Finishing the homework 2;Finish task 9988899 ;2024-01-30;2024-01-22;No
+mary;task1;task1 details;2024-01-30;2024-01-22;Yes
+mary;task2;task2 details;2024-01-30;2024-01-22;No
+mary;task3;task3 details;2022-01-30;2024-01-22;No
+mary;task4;task4 details;2024-01-30;2024-01-22;Yes
+mary;task5;task5 details;2024-01-30;2024-01-22;Yes
+mary;task6;task6 details;2024-01-30;2024-01-22;Yes
+mary;task7;task7 details;2024-01-30;2024-01-22;Yes

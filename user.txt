@@ -1,0 +1,4 @@
+admin;password
+benny;benny
+peter;peter
+mary;mary

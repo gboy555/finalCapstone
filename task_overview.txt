@@ -1,0 +1,8 @@
+Task Overview Report
+Generation Time : 2024-01-24 08:47:49 by admin
+Number of all tasks : 13
+Number of Completed tasks : 8
+Number of Uncompleted tasks : 5
+Number of Uncompleted and overdue tasks : 3
+Task incompletion rate : 38.46% [=======             ]
+Task overdue rate : 23.08% [====                ]
